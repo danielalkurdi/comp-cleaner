@@ -1,0 +1,11 @@
+./cleanup_backups
+./logs
+./__pycache__
+./venv
+./venv/
+./venv/Scripts/
+./venv/Scripts/activate
+./venv/Scripts/deactivate
+./venv/Scripts/pip
+./venv/Scripts/pip.exe
+./venv/Scripts/pip.exe.exe
