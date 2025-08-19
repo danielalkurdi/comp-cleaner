@@ -1,0 +1,175 @@
+2025-08-18 21:10:07,069 - INFO - Found 3618 temporary files to delete
+2025-08-18 21:13:08,135 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:13:08,253 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:13:08,257 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:13:08,317 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:13:08,409 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:13:08,421 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:13:08,493 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:13:08,535 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:13:08,598 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:13:08,874 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:13:09,180 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:13:09,198 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:13:09,252 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:13:10,054 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:13:10,480 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:13:10,481 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:13:10,481 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:13:10,481 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:13:10,482 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:13:10,487 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:13:10,492 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:13:10,493 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:13:10,495 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:13:10,497 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:13:10,498 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:13:10,504 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:13:10,505 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:13:10,507 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:13:10,516 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:13:10,521 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:13:10,522 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:13:10,524 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:13:10,731 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:13:10,925 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:13:10,925 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:13:10,926 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:13:10,926 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:13:10,926 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:13:10,933 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:13:10,938 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:13:10,938 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:13:10,940 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:13:10,942 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:13:10,943 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:13:10,950 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:13:10,952 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:13:10,954 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:13:10,963 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:13:10,967 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:13:10,968 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:13:10,970 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:13:11,180 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:13:11,355 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:13:11,355 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:13:11,356 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:13:11,356 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:13:11,356 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:13:11,359 - INFO - Found 2025 temporary files to delete
+2025-08-18 21:14:45,929 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:14:45,934 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:14:45,935 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:14:45,937 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:14:45,939 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:14:45,940 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:14:45,947 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:14:45,948 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:14:45,950 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:14:45,960 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:14:45,965 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:14:45,966 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:14:45,968 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:14:46,180 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:14:46,354 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:14:46,354 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:14:46,355 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:14:46,355 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:14:46,355 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:14:46,361 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:14:46,366 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:14:46,366 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:14:46,368 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:14:46,370 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:14:46,371 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:14:46,378 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:14:46,379 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:14:46,380 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:14:46,389 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:14:46,394 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:14:46,395 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:14:46,397 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:14:46,606 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:14:46,778 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:14:46,778 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:14:46,779 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:14:46,779 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:14:46,779 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:14:46,785 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:14:46,790 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:14:46,790 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:14:46,792 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:14:46,794 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:14:46,795 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:14:46,802 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:14:46,803 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:14:46,804 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:14:46,814 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:14:46,818 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:14:46,819 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:14:46,821 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:14:47,031 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:14:47,202 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:14:47,202 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:14:47,202 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:14:47,203 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:14:47,203 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:14:47,206 - INFO - Found 2025 temporary files to delete
+2025-08-18 21:16:22,085 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:16:22,091 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:16:22,092 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:16:22,094 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:16:22,097 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:16:22,098 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:16:22,105 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:16:22,106 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:16:22,108 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:16:22,120 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:16:22,125 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:16:22,126 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:16:22,129 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:16:22,344 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:16:22,534 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:16:22,534 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:16:22,535 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:16:22,535 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:16:22,535 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:16:22,541 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:16:22,546 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:16:22,547 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:16:22,549 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:16:22,552 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:16:22,553 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:16:22,560 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:16:22,561 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:16:22,563 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:16:22,573 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:16:22,577 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:16:22,578 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:16:22,581 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:16:22,784 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:16:22,975 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:16:22,975 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:16:22,976 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:16:22,976 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:16:22,977 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:16:22,983 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\094ab799-97f1-4f35-999d-1a8dc7c4f027.tmp
+2025-08-18 21:16:22,987 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\5c451bae-b36c-484f-bc33-77d512258268.tmp
+2025-08-18 21:16:22,988 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\60cdf08c-1387-49ad-9914-a8002362959a.tmp
+2025-08-18 21:16:22,991 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\9479bb44-fc62-4079-81dd-b9d33f561d65.tmp
+2025-08-18 21:16:22,994 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\b95a45ad-e9cc-4896-951b-98ea9530fc2e.tmp
+2025-08-18 21:16:22,994 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\c692ae74-9055-4332-a252-87fd5ba32385.tmp
+2025-08-18 21:16:23,001 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\d90fa1ec-c63c-484c-ac17-7e06a4748f48.tmp
+2025-08-18 21:16:23,003 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\ec83dba2-6bf4-4c9a-8577-a13e4f8cb596.tmp
+2025-08-18 21:16:23,005 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\HWiNFO64A_191.SYS
+2025-08-18 21:16:23,017 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\tmp85CA.dll
+2025-08-18 21:16:23,022 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctA99D.tmp
+2025-08-18 21:16:23,023 - WARNING - File may be in use, skipping: C:\Users\danie\AppData\Local\Temp\wctB0E1.tmp
+2025-08-18 21:16:23,025 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\wsl.2.5.10.0.x64.msi
+2025-08-18 21:16:23,231 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\DiagOutputDir\RdClientAutoTrace\RdClientAutoTrace-WppAutoTrace-20250815-071339-277.etl
+2025-08-18 21:16:23,416 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-360a4e4fd251bfce169a4ddf857c7d25d1ad40da.exe
+2025-08-18 21:16:23,416 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-26yb53c57nf\CodeSetup-stable-1.4.5.exe
+2025-08-18 21:16:23,417 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-4p040bs27j\CodeSetup-stable-1.4.3.exe
+2025-08-18 21:16:23,417 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-j8aoc2qj40n\CodeSetup-stable-1.4.2.exe
+2025-08-18 21:16:23,418 - WARNING - Skipping large file: C:\Users\danie\AppData\Local\Temp\vscode-stable-user-x64-tt1vkofgfpe\CodeSetup-stable-1.4.1.exe
+2025-08-18 21:16:23,421 - INFO - Found 2025 temporary files to delete
